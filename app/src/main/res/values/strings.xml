@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="google_maps_api_key">AIzaSyDT7MGRMufTqiaSoMzF_cDTYfL9CgQLHlk</string>
+    <string name="share">Share</string>
+</resources>

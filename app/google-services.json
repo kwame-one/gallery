@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "406276705306",
+    "firebase_url": "https://quarshie-81d74.firebaseio.com",
+    "project_id": "quarshie-81d74",
+    "storage_bucket": "quarshie-81d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406276705306:android:631a896548867198",
+        "android_client_info": {
+          "package_name": "com.kwame.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406276705306-goer6jq2jmm3bpfa249qhhglsj32iji3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsydT7RuLKKVQti1YxwbdHS-Z6NKr4NH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406276705306:android:f48216539e2766b2",
+        "android_client_info": {
+          "package_name": "com.kwame.android.gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406276705306-goer6jq2jmm3bpfa249qhhglsj32iji3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsydT7RuLKKVQti1YxwbdHS-Z6NKr4NH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
